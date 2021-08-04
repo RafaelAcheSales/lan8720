@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "esp_netif.h": "c",
+        "dhcp.h": "c",
+        "dhcp6_client.h": "c"
+    }
+}
